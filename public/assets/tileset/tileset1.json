@@ -1,0 +1,98 @@
+{
+    "tilesetwidth": 1024,
+    "tilesetheight": 1024,
+    "tilewidth": 32,
+    "tileheight": 32,
+    "tiles": [
+        {
+            "id": 0,
+            "group": "stone0",
+            "type": "other"
+        },
+        {
+            "id": 1,
+            "group": "stone0",
+            "type": "1110"
+        },
+        {
+            "id": 2,
+            "group": "stone0",
+            "type": "1101"
+        },
+        {
+            "id": 32,
+            "group": "stone0",
+            "type": "other"
+        },
+        {
+            "id": 33,
+            "group": "stone0",
+            "type": "1011"
+        },
+        {
+            "id": 34,
+            "group": "stone0",
+            "type": "0111"
+        },
+        {
+            "id": 64,
+            "group": "stone0",
+            "type": "0001"
+        },
+        {
+            "id": 65,
+            "group": "stone0",
+            "type": "0011"
+        },
+        {
+            "id": 66,
+            "group": "stone0",
+            "type": "0010"
+        },
+        {
+            "id": 96,
+            "group": "stone0",
+            "type": "0101"
+        },
+        {
+            "id": 97,
+            "group": "stone0",
+            "type": "1111"
+        },
+        {
+            "id": 98,
+            "group": "stone0",
+            "type": "1010"
+        },
+        {
+            "id": 128,
+            "group": "stone0",
+            "type": "0100"
+        },
+        {
+            "id": 129,
+            "group": "stone0",
+            "type": "1100"
+        },
+        {
+            "id": 130,
+            "group": "stone0",
+            "type": "1000"
+        },
+        {
+            "id": 160,
+            "group": "stone0",
+            "type": "1111"
+        },
+        {
+            "id": 161,
+            "group": "stone0",
+            "type": "1111"
+        },
+        {
+            "id": 162,
+            "group": "stone0",
+            "type": "1111"
+        }
+    ]
+}

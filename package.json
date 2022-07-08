@@ -1,0 +1,28 @@
+{
+  "name": "multiplayer2dgamejs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "game",
+    "2D",
+    "socket",
+    "js",
+    "node",
+    "nodejs",
+    "multiplayer"
+  ],
+  "author": "Arken",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0",
+    "socket.io-client": "^4.4.0"
+  }
+}
